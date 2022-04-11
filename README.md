@@ -1,4 +1,4 @@
-Hello World! 👋 Hi, I’m Saumya Mahajan
+**Hello World! 👋 Hi, I’m Saumya Mahajan**
 
           A Computer Science student at IGDTUW
 - 🌱 I’m currently learning DSA and Web Development.
