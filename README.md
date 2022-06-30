@@ -1,7 +1,7 @@
    **Hello World! 👋 Hi, I’m Saumya Mahajan**
 
           A Computer Science student at IGDTUW
-- 🌱 I’m currently learning DSA and Web Development.
+- 🌱 I’m currently working on DSA, Web Development and Machine Learning.
 - 😄 Pronouns: she/her
 - 📫 How to reach me saumyamahajan06@gmail.com
 
